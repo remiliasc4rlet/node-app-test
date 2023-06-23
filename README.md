@@ -1,3 +1,2 @@
 # node-app-test
-node app test
-shitty tests
+node app shitty test
